@@ -1,0 +1,53 @@
+.container{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(242, 86, 24);
+  background-color: cornsilk;
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    width: 700px;
+    height: 400px;
+    
+}
+
+
+#displayer{ 
+    width: 700px;
+    height: 250px;
+    position: fixed;
+    top: 40%;
+    left: 30%;
+
+
+}
+#add_button{
+  background-color: rgb(218, 245, 121);
+    position: fixed;
+    top: 33%;
+    left: 71%;
+    height: 45px;
+
+}
+
+
+#input{
+    border-radius: 10px;
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgoldenrodyellow;
+    position: fixed;
+    top: 30%;
+    left: 54%;
+    transform: translate(-50%,50%);
+    width: 500px;
+    height: 40px;
+    
+}
+
+
+p{
+    position: relative;
+    left: 40%;
+  }
+  
+  
